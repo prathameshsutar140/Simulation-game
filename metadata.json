@@ -1,0 +1,6 @@
+{
+  "name": "MetroLife - Open World City Simulator",
+  "description": "Ultra-realistic 3D open-world city driving simulator with realistic vehicle physics, dynamic weather, city traffic, missions, and garage customization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
